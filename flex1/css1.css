@@ -1,0 +1,28 @@
+header{
+	width: 100%;
+	background-color: #dededa;
+	color: #cfc;
+}
+
+.container{
+	width: 100%;
+	display: flex;
+	flex-direction:row;
+}
+div.one{
+	width: 50%;
+	height: 400px;
+	background-color: #efe;
+}
+
+div.two{
+	width: 50%;
+	height: 400px;
+	background-color:#bcbcbc;
+}
+
+footer{
+	width: 100%;
+	height: 200px;
+	background-color: #aca;
+}
